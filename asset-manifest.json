@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fafanlp/static/css/main.a8388538.chunk.css",
+    "main.js": "/fafanlp/static/js/main.d140d1e5.chunk.js",
+    "main.js.map": "/fafanlp/static/js/main.d140d1e5.chunk.js.map",
+    "runtime-main.js": "/fafanlp/static/js/runtime-main.62e2f26b.js",
+    "runtime-main.js.map": "/fafanlp/static/js/runtime-main.62e2f26b.js.map",
+    "static/js/2.7f30a6dd.chunk.js": "/fafanlp/static/js/2.7f30a6dd.chunk.js",
+    "static/js/2.7f30a6dd.chunk.js.map": "/fafanlp/static/js/2.7f30a6dd.chunk.js.map",
+    "index.html": "/fafanlp/index.html",
+    "static/css/main.a8388538.chunk.css.map": "/fafanlp/static/css/main.a8388538.chunk.css.map",
+    "static/js/2.7f30a6dd.chunk.js.LICENSE.txt": "/fafanlp/static/js/2.7f30a6dd.chunk.js.LICENSE.txt",
+    "static/media/landing.4ef0acf8.svg": "/fafanlp/static/media/landing.4ef0acf8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62e2f26b.js",
+    "static/js/2.7f30a6dd.chunk.js",
+    "static/css/main.a8388538.chunk.css",
+    "static/js/main.d140d1e5.chunk.js"
+  ]
+}
