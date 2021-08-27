@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fafanlp/static/css/main.a8388538.chunk.css",
-    "main.js": "/fafanlp/static/js/main.d140d1e5.chunk.js",
-    "main.js.map": "/fafanlp/static/js/main.d140d1e5.chunk.js.map",
+    "main.css": "/fafanlp/static/css/main.4188e107.chunk.css",
+    "main.js": "/fafanlp/static/js/main.7473125a.chunk.js",
+    "main.js.map": "/fafanlp/static/js/main.7473125a.chunk.js.map",
     "runtime-main.js": "/fafanlp/static/js/runtime-main.62e2f26b.js",
     "runtime-main.js.map": "/fafanlp/static/js/runtime-main.62e2f26b.js.map",
-    "static/js/2.7f30a6dd.chunk.js": "/fafanlp/static/js/2.7f30a6dd.chunk.js",
-    "static/js/2.7f30a6dd.chunk.js.map": "/fafanlp/static/js/2.7f30a6dd.chunk.js.map",
+    "static/js/2.02ce4add.chunk.js": "/fafanlp/static/js/2.02ce4add.chunk.js",
+    "static/js/2.02ce4add.chunk.js.map": "/fafanlp/static/js/2.02ce4add.chunk.js.map",
     "index.html": "/fafanlp/index.html",
-    "static/css/main.a8388538.chunk.css.map": "/fafanlp/static/css/main.a8388538.chunk.css.map",
-    "static/js/2.7f30a6dd.chunk.js.LICENSE.txt": "/fafanlp/static/js/2.7f30a6dd.chunk.js.LICENSE.txt",
+    "static/css/main.4188e107.chunk.css.map": "/fafanlp/static/css/main.4188e107.chunk.css.map",
+    "static/js/2.02ce4add.chunk.js.LICENSE.txt": "/fafanlp/static/js/2.02ce4add.chunk.js.LICENSE.txt",
     "static/media/landing.4ef0acf8.svg": "/fafanlp/static/media/landing.4ef0acf8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.62e2f26b.js",
-    "static/js/2.7f30a6dd.chunk.js",
-    "static/css/main.a8388538.chunk.css",
-    "static/js/main.d140d1e5.chunk.js"
+    "static/js/2.02ce4add.chunk.js",
+    "static/css/main.4188e107.chunk.css",
+    "static/js/main.7473125a.chunk.js"
   ]
 }
