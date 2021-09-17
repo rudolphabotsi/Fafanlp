@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fafanlp/static/css/main.4188e107.chunk.css",
-    "main.js": "/fafanlp/static/js/main.f1830e11.chunk.js",
-    "main.js.map": "/fafanlp/static/js/main.f1830e11.chunk.js.map",
+    "main.js": "/fafanlp/static/js/main.9258a1bf.chunk.js",
+    "main.js.map": "/fafanlp/static/js/main.9258a1bf.chunk.js.map",
     "runtime-main.js": "/fafanlp/static/js/runtime-main.62e2f26b.js",
     "runtime-main.js.map": "/fafanlp/static/js/runtime-main.62e2f26b.js.map",
     "static/js/2.bf2d9019.chunk.js": "/fafanlp/static/js/2.bf2d9019.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.62e2f26b.js",
     "static/js/2.bf2d9019.chunk.js",
     "static/css/main.4188e107.chunk.css",
-    "static/js/main.f1830e11.chunk.js"
+    "static/js/main.9258a1bf.chunk.js"
   ]
 }
